@@ -52,8 +52,8 @@ Chosen candidate:
 
 | pipeline | overall accuracy | weakest cell (language, condition) | accuracy there | lower | upper | annual cost |
 |---|---|---|---|---|---|---|
-| H | 0.894(161/180)| KK, degraded| 0.833(25/30)| 0.664| 0.927| 8821|
-| L | 0.811(146/180)| KK, degraded (равна KK, clean)| 0.733(22/30)| 0.556| 0.858| 9000|
+| H | 0.894| KK, degraded| 0.833| 0.664| 0.927| 8821|
+| L | 0.811| KK, degraded| 0.733| 0.556| 0.858| 9000|
 
 Personal-data pages per year sent abroad under H:
 
@@ -63,25 +63,25 @@ Personal-data pages per year sent abroad under H:
 
 ### Q1
 
-Number:
+Number:2.14
 Why (at most 40 words):
 
 ### Q2
 
-Number:
+Number:44.4%
 Why (at most 40 words):
 
 ### Q3
 
-Number:
+Number:67.4%
 Why (at most 40 words):
 
 ### Q4
 
-Number:
+Number:30
 Why (at most 40 words):
 
 ### Q5
 
-Number:
+Number:15.9
 Why (at most 40 words):
